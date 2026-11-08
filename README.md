@@ -200,19 +200,6 @@ O sistema deverá atender aos seguintes requisitos gerais:
 
 ---
 
-## Equipe
-
-**Projeto:** Barra Hotel Web
-
-**Módulo:** Desenvolvimento de Aplicação Web
-
-### Integrantes
-
-* Daniel de Freitas Santicioli
-* Jackson Willian dos Santos Florencio
-* Leticia Jorge
-* Poliana Procopio Machado Vela
-* Vitória Martins Da Silva 
 
 ---
 
